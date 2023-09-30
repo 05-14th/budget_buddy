@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Budget Buddy</string>
+    <string name="finance_tracking">Finance Tracking</string>
+    <string name="statistics">Statistics</string>
+    <string name="account">Account</string>
+    <string name="budget_buddy">Budget Buddy</string>
+    <string name="feedback">Feedback</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+    <string name="date">Date</string>
+    <string name="cost">Cost</string>
+    <string name="product_service_name">Product/Service Name</string>
+    <string name="description">Description</string>
+    <string name="expense_category">Expense Category</string>
+    <string name="expense_list">Expense List</string>
+    <string name="finance_tracking_form">Finance Tracking Form</string>
+</resources>
