@@ -14,4 +14,12 @@
     <string name="expense_category">Expense Category</string>
     <string name="expense_list">Expense List</string>
     <string name="finance_tracking_form">Finance Tracking Form</string>
+    <string-array name="choices">
+        <item>Housing Expenses</item>
+        <item>Transportation Expenses</item>
+        <item>Food and Groceries</item>
+        <item>Personal Expenses</item>
+        <item>Savings</item>
+        <item>Other Expenses</item>
+    </string-array>
 </resources>
